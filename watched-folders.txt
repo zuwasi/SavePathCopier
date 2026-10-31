@@ -1,0 +1,7 @@
+# Save Path Copier: one folder per line. Lines starting with # are ignored.
+# Saving any file in these folders (including subfolders) puts the file's
+# full path on the clipboard. Edit, then use the tray icon menu to reload.
+C:\Users\danie\OneDrive\Desktop
+C:\Users\danie\OneDrive\Documents
+C:\Users\danie\Downloads
+C:\tmp
